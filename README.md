@@ -60,7 +60,7 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science**<br>
-[Vietnamese - German University](https://vgu.edu.vn/) - Binh Duong province, Vietnam _(September 2014 - August 2018)_ <br>
+[Vietnamese - German University](https://vgu.edu.vn/) - Binh Duong province, Vietnam <br> _(September 2014 - August 2018)_ <br>
 
 <br>
 
