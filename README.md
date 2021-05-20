@@ -9,6 +9,8 @@
 - 2 years of experience in Java
 - 1 year of experience in CoffeeScript, TypeScript
 
+<br>
+
 ## 🔑 Skill
 - **Languages and Scripting:** HTML, Css, JavaScript, Java, Sql
 - **Frameworks:** EmberJs, ReactJs, VueJs, Spring boot
@@ -17,6 +19,8 @@
 - **Configuration Management Tools:** Jenkin
 - **Methodology:** Agile
 - **Source Version Control:** Git, SVN
+
+<br>
 
 ## 📌 Working Experience
 
@@ -51,10 +55,14 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
 - Discussed and provided ideas to client’s PO to improve UI/UX
 - **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate)
 
+<br>
+
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science**<br>
 [Vietnamese - German University](https://vgu.edu.vn/) - Binh Duong province, Vietnam _(September 2014 - August 2018)_ <br>
+
+<br>
 
 ## 💬 Languages
 
