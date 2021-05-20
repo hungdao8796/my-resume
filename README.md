@@ -1,6 +1,7 @@
 # Hung Dao Thanh
-*Software Engineer based in Ho Chi Minh City - Vietnam*
-
+*Software Engineer based in Ho Chi Minh City - Vietnam*<br>
+[Email](mailto:hung.dt8796@gmail.com) / [LinkedIn](www.linkedin.com/in/hung-dao-thanh-ab74501b0) / [GitHub](https://github.com/hungdt8796/) <br>
+📞: (+84) 90 301 1667
 ## 🚩 Summary
 - 4 years of experience in Software Development
 - 4 years of experience in JavaScript, HTML, Css
