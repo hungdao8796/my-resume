@@ -13,7 +13,7 @@
 <br>
 
 ## 🔑 Skill
-- **Languages and Scripting:** HTML, Css, JavaScript, Java, Sql
+- **Languages and Scripting:** HTML, Css, JavaScript, Java, Sql, TypeScript, CoffeeScript
 - **Frameworks:** EmberJs, ReactJs, VueJs, Spring boot
 - **Databases:** MySQL, MongoDB
 - **Analysis & Design Tools:** Balsamiq
@@ -30,7 +30,7 @@ _(March 2021 - then)_ <br>
 An e-learning web application
 - Implementing new features both Front-end and Back-end side
 - Maintaining current common libraries
-- **Technologies used:** HTML, CSS (Sass), JavaScript (ReactJs), Java (Spring boot)
+- **Technologies used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot)
 
 <br>
 
@@ -42,7 +42,7 @@ Web app for handling media (Airflow) + Admin site for other apps (Flow Control/A
 - Worked directly with client’s dev team + PO to analyze, design and review before implementation
 - Coached fresher
 - Led other members with appropriate solutions
-- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), CoffeeScript, NodeJs (ExpressJs)
+- **Technologies used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
 
 <br>
 
