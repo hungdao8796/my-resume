@@ -42,7 +42,7 @@ Web app for handling media (Airflow) + Admin site for other apps (Flow Control/A
 - Worked directly with client’s dev team + PO to analyze, design and review before implementation
 - Coached fresher
 - Led other members with appropriate solutions
-- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), CoffeeScript
+- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), CoffeeScript, NodeJs (ExpressJs)
 
 <br>
 
