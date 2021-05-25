@@ -3,7 +3,7 @@
 [Email](mailto:hung.dt8796@gmail.com) /
 [LinkedIn](https://www.linkedin.com/in/hung-dao-thanh-ab74501b0) /
 [GitHub](https://github.com/hungdt8796/) /
-[Skype](live:oratnar123@gmail.com)
+[Skype](skype:oratnar123@gmail.com)
 <br>
 📞: (+84) 90 301 1667
 
