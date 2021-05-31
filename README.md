@@ -12,19 +12,8 @@
 - 4 years of experience in JavaScript, HTML, Css
 - 3 years of experience in Css Preprocessors (Sass, Scss)
 - 3 years of experience in Unit testing (Qunit, Sinon)
-- 2 years of experience in Java
+- 1 year of experience in Java
 - 1 year of experience in CoffeeScript, TypeScript
-
-<br>
-
-## 🔑 Skill
-- **Languages and Scripting:** HTML, Css, JavaScript, Java, Sql, TypeScript, CoffeeScript
-- **Frameworks:** EmberJs, ReactJs, VueJs, Spring boot
-- **Databases:** MySQL, MongoDB
-- **Analysis & Design Tools:** Balsamiq
-- **Configuration Management Tools:** Jenkin
-- **Methodology:** Agile
-- **Source Version Control:** Git, SVN
 
 <br>
 
