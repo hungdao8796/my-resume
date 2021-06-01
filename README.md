@@ -57,11 +57,12 @@ _(March 2018 - March 2020)_ <br>
 Web app for sales team - Migrated the old version from Flash to EmberJs
 - Analyzed requirements and discussed solutions with other team members to migrate from old flash app
 - Implemented requirements
+  - Migrated legacy features by investigated legacy app and designed to apply using EmberJs
+  - Visualized data into tables and map/charts (JointJs)
   - Designed new feature’s database/code base structure
     - Split new features' data into as small as possible database tables with relationship, used MySql
     - Configured Java Hibernate for mapping data
     - Created end-points for getting data from front-end side
-    - Visualized data into tables and charts (JointJs)  
   - Refactored old codebase
     - Applied 'single responsibility principle' for functions
     - Removed duplicated code lines
