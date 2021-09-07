@@ -19,7 +19,7 @@
 
 ## 📌 Working Experience
 
-**<ins>Shopping Experience</ins>** - Software Engineer @ Tiki <br>
+**<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer @ Tiki <br>
 _(July 2021 - then)_ <br>
 Shopping experience
 - Implementing new features to improve customer's experience on website
