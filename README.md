@@ -19,15 +19,25 @@
 
 ## 📌 Working Experience
 
+**<ins>Shopping Experience</ins>** - Software Engineer @ Tiki <br>
+_(July 2021 - then)_ <br>
+Shopping experience
+- Implementing new features to improve customer's experience on website
+- Improving web performance scores (reduce CLS, increase FCP, LCP)
+- Communicating with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
+- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs)
+
+<br>
+
 **<ins>ELSEVIER</ins>** - Senior Software Engineer @ KMS Technology <br>
-_(March 2021 - then)_ <br>
+_(March 2021 - June 2021)_ <br>
 An e-learning web application
-- Implementing new features both Front-end and Back-end side
-  - Investigating the microservices to get the appropriate data for current app
-  - Resolving bugs
-  - Adding Unit tests
+- Implemented new features both Front-end and Back-end side
+  - Investigated the microservices to get the appropriate data for current app
+  - Resolved bugs
+  - Added Unit tests
 - Reviewed Pull Request across team and onshore team
-- Maintaining current common libraries
+- Maintained current common libraries
 - **Technologies used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot)
 
 <br>
