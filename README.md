@@ -23,7 +23,7 @@
 _(July 2021 - then)_ <br>
 Shopping experience
 - Implementing new features to improve customer's experience on website
-- Improving web performance scores (reduce CLS, increase FCP, LCP)
+- Improving web performance by applying Server-side Rendering + improving web vital metrics CLS, LCP, FID
 - Communicating with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
 - **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs)
 
