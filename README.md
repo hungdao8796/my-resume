@@ -8,10 +8,10 @@
 📞: (+84) 90 301 1667
 
 ## 🚩 Summary
-- 4 years of experience in Software Development
-- 4 years of experience in JavaScript, HTML, Css
-- 3 years of experience in Css Preprocessors (Sass, Scss)
-- 3 years of experience in Unit testing (Qunit, Sinon)
+- 4+ years of experience in Software Development
+- 4+ years of experience in JavaScript, HTML, Css
+- 3+ years of experience in Css Preprocessors (Sass, Scss)
+- 3+ years of experience in Unit testing (Qunit, Sinon)
 - 1 year of experience in Java
 - 1 year of experience in CoffeeScript, TypeScript
 
@@ -19,17 +19,30 @@
 
 ## 📌 Working Experience
 
-**<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer @ Tiki <br>
-_(July 2021 - then)_ <br>
+### Flow Networks
+**<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
+_(February 2022 - then)_ <br>
+- Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
+- Designing and implementing new features using Angular mainly to adapt changes in most possible common way
+- Maintaining and improving code coverage by unit tests 
+- **Technologies using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS)
+
+<br>
+
+### Tiki Corporation
+**<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer  <br>
+_(July 2021 - February 2022)_ <br>
 Shopping experience
-- Implementing new features to improve customer's experience on website
-- Improving web performance by applying Server-side Rendering + improving web vital metrics CLS, LCP, FID
-- Communicating with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
+- Implemented new features to improve customer's experience on Tiki main e-commerce website
+- Improved web performance by applying Server-side Rendering + improved web vital metrics CLS, LCP, FID
+- Communicated with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
 - **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs)
 
 <br>
 
-**<ins>ELSEVIER</ins>** - Senior Software Engineer @ KMS Technology <br>
+### KMS Technology
+
+**<ins>ELSEVIER</ins>** - Senior Software Engineer <br>
 _(March 2021 - June 2021)_ <br>
 An e-learning web application
 - Implemented new features both Front-end and Back-end side
@@ -42,7 +55,7 @@ An e-learning web application
 
 <br>
 
-**<ins>EDITSHARE</ins>** - Senior Software Engineer @ KMS Technology <br>
+**<ins>EDITSHARE</ins>** - Senior Software Engineer <br>
 _(March 2020 - March 2021)_ <br>
 Web app for handling media (Airflow) + Admin site for other apps (Flow Control/Automation) + Gateway app for connection between client apps and servers
 - Analyzed requirements and discussed solutions with other team members to migrate from desktop apps
@@ -62,7 +75,7 @@ Web app for handling media (Airflow) + Admin site for other apps (Flow Control/A
 
 <br>
 
-**<ins>REVEGY</ins>** - Software Engineer @ KMS Technology <br>
+**<ins>REVEGY</ins>** - Software Engineer<br>
 _(March 2018 - March 2020)_ <br>
 Web app for sales team - Migrated the old version from Flash to EmberJs
 - Analyzed requirements and discussed solutions with other team members to migrate from old flash app
