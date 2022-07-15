@@ -11,8 +11,8 @@
 - 4+ years of experience in Software Development
 - 4+ years of experience in JavaScript, HTML, Css
 - 3+ years of experience in Css Preprocessors (Sass, Scss)
-- 3+ years of experience in Unit testing (Qunit, Sinon)
-- 1 year of experience in Java
+- 3+ years of experience in Unit testing (Qunit, Sinon, Jest)
+- 1 year of experience in Java, NodeJs
 - 1 year of experience in CoffeeScript, TypeScript
 
 <br>
@@ -25,7 +25,7 @@ _(February 2022 - then)_ <br>
 - Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
 - Designing and implementing new features using Angular mainly to adapt changes in most possible common way
 - Maintaining and improving code coverage by unit tests 
-- **Technologies using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS)
+- **Technologies using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI
 
 <br>
 
@@ -36,7 +36,7 @@ Shopping experience
 - Implemented new features to improve customer's experience on Tiki main e-commerce website
 - Improved web performance by applying Server-side Rendering + improved web vital metrics CLS, LCP, FID
 - Communicated with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
-- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs)
+- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs, NodeJs - NestJs)
 
 <br>
 
@@ -98,6 +98,19 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
 - **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate)
 
 <br>
+
+## 🧑‍💼 Side Working Experience (Freelancing)
+- **Miridih**: Project for digital asset management, migration from old PHP code base to new React. <br/>
+  **Technologies used**: ReactJs, Redux, MaterialUI.
+
+- **SuiteDash**: Project for chat app, migration from old Angular 2 to new React.  <br/>
+  **Technologies used**: ReactJs, NestJs, WebSocket, MaterialUI.
+
+- **AIRGate**: Project for management of telecommunication (sim card, device, etc...), migration from old React (<15) to the newest version. <br/>
+  **Technologies used**: ReactJs, Redux Toolkit, Material UI, ChartJs, React Leaflet, TailwindCss
+
+- **Motiv**: Project for management of content pipelines running for companies using Content Management System (CMS). <br/> 
+  **Technologies used**: ReactJs, Redux, TailwindCss, Material UI, Storybook
 
 ## 👩🏼‍🎓 Education
 
