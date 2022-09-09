@@ -20,29 +20,42 @@
 ## 📌 Working Experience
 
 ### Flow Networks
-**<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
+Team **<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
 _(February 2022 - then)_ <br>
 - Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
-- Designing and implementing new features using Angular mainly to adapt changes in most possible common way
-- Maintaining and improving code coverage by unit tests 
-- **Technologies using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI
+- Implementing admin pages for platform configuration
+  - Applying monorepo structure for different source
+  - Implementing Rich Text Editor based on headless library
+  - Implementing reusable control for json form configuration
+  - Enhancing the flexibility of configuration forms during run time, instead of fixed configuration form
+- Maintaining and improving code coverage by unit tests
+- **Technologies & Tools using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI, Tiptap, DataDog
 
 <br>
 
 ### Tiki Corporation
-**<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer  <br>
+Team **<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer  <br>
 _(July 2021 - February 2022)_ <br>
-Shopping experience
+E-commerce page + Internal tool
 - Implemented new features to improve customer's experience on Tiki main e-commerce website
-- Improved web performance by applying Server-side Rendering + improved web vital metrics CLS, LCP, FID
+  - Home page widgets
+  - TikiNgon
+  - Contextual Product page
+  - Campaign pages widgets
+- Improved web performance by improving web vital metrics Cumulative Layout Shift, Largest Contentful Paint, First Input Delay
+- Improved SEO with Server-side Rendering
 - Communicated with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
-- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs, NodeJs - NestJs)
+- Managed user events tracking on web and mobile web app
+- Improved internal tools for realtime content modification
+  - Able to uploaded new widget to campaign pages
+  - Able to update category pages footer content
+- **Technologies & Tools used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs, NodeJs - NestJs, Umi + AntDesign)
 
 <br>
 
 ### KMS Technology
 
-**<ins>ELSEVIER</ins>** - Senior Software Engineer <br>
+Team **<ins>ELSEVIER</ins>** - Senior Software Engineer <br>
 _(March 2021 - June 2021)_ <br>
 An e-learning web application
 - Implemented new features both Front-end and Back-end side
@@ -51,11 +64,11 @@ An e-learning web application
   - Added Unit tests
 - Reviewed Pull Request across team and onshore team
 - Maintained current common libraries
-- **Technologies used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot)
+- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot)
 
 <br>
 
-**<ins>EDITSHARE</ins>** - Senior Software Engineer <br>
+Team **<ins>EDITSHARE</ins>** - Senior Software Engineer <br>
 _(March 2020 - March 2021)_ <br>
 Web app for handling media (Airflow) + Admin site for other apps (Flow Control/Automation) + Gateway app for connection between client apps and servers
 - Analyzed requirements and discussed solutions with other team members to migrate from desktop apps
@@ -71,11 +84,11 @@ Web app for handling media (Airflow) + Admin site for other apps (Flow Control/A
 - Resolved legacy bugs
 - Worked directly with onshore dev team + PO to analyze, design and review before implementation
 - Coached freshers
-- **Technologies used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
+- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
 
 <br>
 
-**<ins>REVEGY</ins>** - Software Engineer<br>
+Team **<ins>REVEGY</ins>** - Software Engineer<br>
 _(March 2018 - March 2020)_ <br>
 Web app for sales team - Migrated the old version from Flash to EmberJs
 - Analyzed requirements and discussed solutions with other team members to migrate from old flash app
@@ -95,21 +108,21 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
 - Reviewed Pull Request across team and onshore team
 - Discussed and provided ideas to client’s PO to improve UI/UX
 - Resolved legacy bugs  
-- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate)
+- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate), JointJs
 
 <br>
 
 ## 🧑‍💼 Side Working Experience (Freelancing)
-- **Miridih**: Project for digital asset management, migration from old PHP code base to new React. <br/>
+- **Miridih**: Project for `Digital Asset Management` applicaton, migration from old PHP code base to new React. <br/>
   **Technologies used**: ReactJs, Redux, MaterialUI.
 
-- **SuiteDash**: Project for chat app, migration from old Angular 2 to new React.  <br/>
+- **SuiteDash**: Project for `Realtime chat app`, migration from old Angular 2 to new React.  <br/>
   **Technologies used**: ReactJs, NestJs, WebSocket, MaterialUI.
 
-- **AIRGate**: Project for management of telecommunication (sim card, device, etc...), migration from old React (<15) to the newest version. <br/>
+- **AIRGate**: Project for `Management of Telecommunication`, migration from old React (<15) to the newest version. <br/>
   **Technologies used**: ReactJs, Redux Toolkit, Material UI, ChartJs, React Leaflet, TailwindCss
 
-- **Motiv**: Project for management of content pipelines running for companies using Content Management System (CMS). <br/> 
+- **Motiv**: Project for `Management of content pipelines running for companies using Content Management System (CMS)`. <br/> 
   **Technologies used**: ReactJs, Redux, TailwindCss, Material UI, Storybook
 
 ## 👩🏼‍🎓 Education
