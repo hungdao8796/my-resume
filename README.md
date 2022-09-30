@@ -1,6 +1,6 @@
 # Hung Dao Thanh  
 *Software Engineer based in Ho Chi Minh City - Vietnam*<br>
-[Email](mailto:hung.dt8796@gmail.com) /
+[Email](mailto:hung.dt8796@gmail.com): hung.dt8796@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/h%C6%B0ng-%C4%91%C3%A0o-th%C3%A0nh-ab74501b0) /
 [GitHub](https://github.com/hungdao8796) /
 [Skype](skype:oratnar123@gmail.com?chat)
