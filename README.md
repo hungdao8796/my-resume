@@ -12,9 +12,10 @@
 - 4+ years of experience in JavaScript, HTML, Css
 - 3+ years of experience in Css Preprocessors (Sass, Scss)
 - 3+ years of experience in Unit testing (Qunit, Sinon, Jest)
-- 1 year of experience in Java, NodeJs
-- 1 year of experience in CoffeeScript, TypeScript
-
+- 2+ year of experience in TypeScript
+- 2+ year of experience in NodeJs
+- Frameworks and Libraries: ReactJs, NextJs, Angular, EmberJs, Material UI, TailwindCSS, React Hook Form, React Query, Playwright, NestJs, Strapi,...
+- Tools: Webpack, Babel, EsLint, Prettier, Docker, Git, Datadog, Amplitude, etc...
 <br>
 
 ## 📌 Working Experience
@@ -23,11 +24,11 @@
 Team **<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
 _(February 2022 - then)_ <br>
 - Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
-- Implementing admin pages for platform configuration
+- Responsible for platform configuration
   - Applying monorepo structure for different source
   - Implementing Rich Text Editor based on headless library
   - Implementing reusable control for json form configuration
-  - Enhancing the flexibility of configuration forms during run time, instead of fixed configuration form
+  - Enhancing the flexibility of configuration forms during run time
 - Maintaining and improving code coverage by unit tests
 - **Technologies & Tools using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI, Tiptap, DataDog
 
@@ -117,13 +118,13 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
   **Technologies used**: ReactJs, Redux, MaterialUI.
 
 - **SuiteDash**: Project for `Realtime chat app`, migration from old Angular 2 to new React.  <br/>
-  **Technologies used**: ReactJs, NestJs, WebSocket, MaterialUI.
+  **Technologies used**: ReactJs, NestJs, WebSocket, MaterialUI, Redis.
 
 - **AIRGate**: Project for `Management of Telecommunication`, migration from old React (<15) to the newest version. <br/>
-  **Technologies used**: ReactJs, Redux Toolkit, Material UI, ChartJs, React Leaflet, TailwindCss
+  **Technologies used**: ReactJs, Redux Toolkit, Material UI, ChartJs, React Leaflet, TailwindCss, React Hook Form, React Query.
 
 - **Motiv**: Project for `Management of content pipelines running for companies using Content Management System (CMS)`. <br/> 
-  **Technologies used**: ReactJs, Redux, TailwindCss, Material UI, Storybook
+  **Technologies used**: ReactJs, Redux, TailwindCss, Material UI, Storybook.
 
 ## 👩🏼‍🎓 Education
 
