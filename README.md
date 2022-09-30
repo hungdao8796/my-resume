@@ -20,7 +20,7 @@
 
 ## 📌 Working Experience
 
-### Flow Networks
+### Flow Networks Company
 Team **<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
 _(February 2022 - then)_ <br>
 - Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
@@ -54,7 +54,7 @@ E-commerce page + Internal tool
 
 <br>
 
-### KMS Technology
+### KMS Technology Company
 
 Team **<ins>ELSEVIER</ins>** - Senior Software Engineer <br>
 _(March 2021 - June 2021)_ <br>
