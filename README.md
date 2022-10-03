@@ -113,19 +113,6 @@ Web app for sales team - Migrated the old version from Flash to EmberJs
 
 <br>
 
-## 🧑‍💼 Side Working Experience (Freelancing)
-- **Miridih**: Project for `Digital Asset Management` applicaton, migration from old PHP code base to new React. <br/>
-  **Technologies used**: ReactJs, Redux, MaterialUI.
-
-- **SuiteDash**: Project for `Realtime chat app`, migration from old Angular 2 to new React.  <br/>
-  **Technologies used**: ReactJs, NestJs, WebSocket, MaterialUI, Redis.
-
-- **AIRGate**: Project for `Management of Telecommunication`, migration from old React (<15) to the newest version. <br/>
-  **Technologies used**: ReactJs, Redux Toolkit, Material UI, ChartJs, React Leaflet, TailwindCss, React Hook Form, React Query.
-
-- **Motiv**: Project for `Management of content pipelines running for companies using Content Management System (CMS)`. <br/> 
-  **Technologies used**: ReactJs, Redux, TailwindCss, Material UI, Storybook.
-
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science**<br>
