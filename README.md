@@ -11,7 +11,7 @@
 - 4+ years of experience in Software Development
 - 4+ years of experience in JavaScript, HTML, Css
 - 3+ years of experience in Css Preprocessors (Sass, Scss)
-- 3+ years of experience in Unit testing (Qunit, Sinon, Jest)
+- 3+ years of experience in Unit/Integration testing (Qunit, Sinon, Jest, Playwright)
 - 2+ year of experience in TypeScript
 - 2+ year of experience in NodeJs
 - Frameworks and Libraries: ReactJs, NextJs, Angular, EmberJs, Material UI, TailwindCSS, React Hook Form, React Query, Playwright, NestJs, Strapi,...
