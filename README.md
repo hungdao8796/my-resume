@@ -20,7 +20,7 @@
 ## 📌 Working Experience
 
 ### Company Innosky
-**<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
+**Team <ins>CORE</ins>** - Software Engineer  <br>
 _(March 2023 - Then)_ <br>
 - Full-stack software developer with experience in multiple projects and tech stacks
 - Consulting with clients to understand their needs and develop development approaches and solutions that met their requirements.
