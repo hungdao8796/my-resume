@@ -1,117 +1,98 @@
 # Hung Dao Thanh  
 *Software Engineer based in Ho Chi Minh City - Vietnam*<br>
-[Email](mailto:hung.dt8796@gmail.com): hung.dt8796@gmail.com <br>
-[LinkedIn](https://www.linkedin.com/in/h%C6%B0ng-%C4%91%C3%A0o-th%C3%A0nh-ab74501b0) /
+[Email](mailto:hung.dt8796@gmail.com) /
+[LinkedIn](https://www.linkedin.com/in/hung-dao-thanh-ab74501b0) /
 [GitHub](https://github.com/hungdao8796) /
 [Skype](skype:oratnar123@gmail.com?chat)
 <br>
 📞: (+84) 90 301 1667
 
 ## 🚩 Summary
-- 4+ years of experience in Software Development
-- 4+ years of experience in JavaScript, HTML, Css
-- 3+ years of experience in Css Preprocessors (Sass, Scss)
-- 3+ years of experience in Unit/Integration testing (Qunit, Sinon, Jest, Playwright)
-- 2+ year of experience in TypeScript
-- 2+ year of experience in NodeJs
-- Frameworks and Libraries: ReactJs, NextJs, Angular, EmberJs, Material UI, TailwindCSS, React Hook Form, React Query, Playwright, NestJs, Strapi,...
-- Tools: Webpack, Babel, EsLint, Prettier, Docker, Git, Datadog, Amplitude, etc...
+- 5+ years of experience in Software Development
+- 5+ years of experience in JavaScript, HTML, Css
+- 4+ years of experience in Css Preprocessors (Sass, Scss)
+- 4+ years of experience in Unit testing (Sinon, Jest)
+- 3+ years of experience in TypeScript
+- 3+ years of experience in NodeJs
+
 <br>
 
 ## 📌 Working Experience
 
-### Flow Networks Company
-Team **<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
-_(February 2022 - then)_ <br>
-- Analyzing and discussing requirements from product team and providing ideas to make better design and user experience
-- Responsible for platform configuration
-  - Applying monorepo structure for different source
-  - Implementing Rich Text Editor based on headless library
-  - Implementing reusable control for json form configuration
-  - Enhancing the flexibility of configuration forms during run time
-- Maintaining and improving code coverage by unit tests
-- **Technologies & Tools using:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI, Tiptap, DataDog
+### Company Innosky
+**<ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
+_(March 2023 - Then)_ <br>
+- Full-stack software developer with experience in multiple projects and tech stacks
+- Consulting with clients to understand their needs and develop development approaches and solutions that met their requirements.
+- Mentoring and coaching small team members, helping them to develop their skills and knowledge.
+- Ensuring code quality and structure by implementing and enforcing code standards and best practices.
+- Implementing CI/CD pipeline using Docker and GitHub Actions when necessary.
+- **Technologies used:** Mostly about JavaScript/TypeScript frameworks/libraries, Sanity, Stripe, Sentry, DataDog, Docker, etc...
 
 <br>
 
-### Tiki Corporation
-Team **<ins>SHOPPING EXPERIENCE</ins>** - Software Engineer  <br>
+### Company Flow Networks
+**Team <ins>CLIENT EXPERIENCE</ins>** - Software Engineer  <br>
+_(February 2022 - March 2023)_ <br>
+- Collaborated with product team to analyze and refine requirements, and contributed ideas to improve design and user experience
+- Designed and implemented new features using Angular, prioritizing reusability and commonality
+- Improved code coverage by writing and maintaining unit tests
+- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI, DataDog
+
+<br>
+
+### Company Tiki Corporation
+**Team <ins>SHOPPING EXPERIENCE</ins>** - Software Engineer  <br>
 _(July 2021 - February 2022)_ <br>
-E-commerce page + Internal tool
-- Implemented new features to improve customer's experience on Tiki main e-commerce website
-  - Home page widgets
-  - TikiNgon
-  - Contextual Product page
-  - Campaign pages widgets
-- Improved web performance by improving web vital metrics Cumulative Layout Shift, Largest Contentful Paint, First Input Delay
-- Improved SEO with Server-side Rendering
-- Communicated with other platform developers / QCs to get to uniformity between platforms (ios, android, web)
-- Managed user events tracking on web and mobile web app
-- Improved internal tools for realtime content modification
-  - Able to uploaded new widget to campaign pages
-  - Able to update category pages footer content
-- **Technologies & Tools used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs, NodeJs - NestJs, Umi + AntDesign)
+Shopping experience
+- Delivered customer-centric features for the Tiki main e-commerce website, resulting in a 10% increase in customer satisfaction.
+- Improved web performance by implementing Server-side Rendering and optimizing web vital metrics CLS, LCP, and FID.
+- Collaborated with cross-platform developers and QCs to ensure consistency across iOS, Android, and web platforms.
+- **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (ReactJs - NextJs, NodeJs - NestJs)
 
 <br>
 
-### KMS Technology Company
-
-Team **<ins>ELSEVIER</ins>** - Senior Software Engineer <br>
+### Company KMS Technology
+**Project <ins>ELSEVIER</ins>** - Senior Software Engineer <br>
 _(March 2021 - June 2021)_ <br>
 An e-learning web application
-- Implemented new features both Front-end and Back-end side
-  - Investigated the microservices to get the appropriate data for current app
-  - Resolved bugs
-  - Added Unit tests
-- Reviewed Pull Request across team and onshore team
-- Maintained current common libraries
-- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot)
+- Implemented new features both Front-end and Back-end side to improve user experience
+- Resolved multiple legacy bugs, preventing outages and disruptions to users.
+- Added unit tests to all new code, ensuring code quality and reducing the risk of bugs.
+- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
+- Maintained current common libraries, keeping them up-to-date and secure.
+- **Technologies used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot - applied Microservice architecture)
 
 <br>
 
-Team **<ins>EDITSHARE</ins>** - Senior Software Engineer <br>
+**Project <ins>EDITSHARE</ins>** - Senior Software Engineer <br>
 _(March 2020 - March 2021)_ <br>
 Web app for handling media (Airflow) + Admin site for other apps (Flow Control/Automation) + Gateway app for connection between client apps and servers
-- Analyzed requirements and discussed solutions with other team members to migrate from desktop apps
-- Implemented requirements in EmberJs
-  - Integrated with Gateway to access services for data
-  - Designed appropriate structure for new features ( apply POD layout )
-  - Added Unit Tests ( there was no UTs before ) with coverage over 70%
-  - Added common components (popup notification, event listener)
-  - Apply constants system (remove magic number, symbolize repeated strings)
-  - Enhanced user experience with realtime data change by handling system messages pushed by RabbitMq
-  - Apply locale translations
-- Reviewed Pull Request across team and onshore team    
-- Resolved legacy bugs
-- Worked directly with onshore dev team + PO to analyze, design and review before implementation
-- Coached freshers
-- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
+- Collaborated with team members to analyze requirements and develop solutions to migrate from desktop apps.
+- Designed and implemented a new feature structure using the POD layout, which improved code quality and maintainability.
+- Introduced unit testing to the project, increasing code coverage to at least 70%.
+- Developed a common components system to improve code reuse and maintainability.
+- Enhanced user experience by implementing real-time data updates using RabbitMQ.
+- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
+- Resolved legacy bugs, improving code quality and reliability.
+- Collaborated with the onshore development team and product owner to analyze, design, and review new features before implementation.
+- Mentored and trained new team members.
+- **Technologies used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
 
 <br>
 
-Team **<ins>REVEGY</ins>** - Software Engineer<br>
+**Project <ins>REVEGY</ins>** - Software Engineer<br>
 _(March 2018 - March 2020)_ <br>
 Web app for sales team - Migrated the old version from Flash to EmberJs
-- Analyzed requirements and discussed solutions with other team members to migrate from old flash app
-- Implemented requirements
-  - Migrated legacy features by investigated legacy app and designed to apply using EmberJs
-  - Visualized data into tables and map/charts (JointJs)
-  - Designed new feature’s database/code base structure
-    - Split new features' data into as small as possible database tables with relationship, used MySql
-    - Configured Java Hibernate for mapping data
-    - Created end-points for getting data from front-end side
-  - Refactored old codebase
-    - Applied 'single responsibility principle' for functions
-    - Removed duplicated code lines
-    - Using constants for repeated string or magic number
-  - Added Unit Tests with coverage over 70%
-  - Updated Bootstrap library  
-- Reviewed Pull Request across team and onshore team
-- Discussed and provided ideas to client’s PO to improve UI/UX
-- Resolved legacy bugs  
-- **Technologies & Tools used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate), JointJs
-
-<br>
+- Collaborated with team members to analyze requirements and develop solutions to migrate from a legacy Flash app.
+- Migrated legacy features to Ember.js, increasing performance and maintainability.
+- Created data visualizations using JointJS, including tables, maps, and charts, to communicate complex data in a clear and concise way.
+- Designed database and codebase structures for new features, ensuring scalability and performance.
+- Refactored old codebase to improve readability, maintainability, and performance.
+- Introduced unit testing to the project, increasing code coverage to at least 70%.
+- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
+- Collaborated with the client's product owner to discuss and provide ideas for improving the user interface and user experience.
+- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate)
 
 ## 👩🏼‍🎓 Education
 
