@@ -61,46 +61,15 @@ Shopping experience
 <br>
 
 ### Company KMS Technology
-**Project <ins>ELSEVIER</ins>** - Senior Software Engineer <br>
-_(March 2021 - June 2021)_ <br>
-An e-learning web application
-- Implemented new features both Front-end and Back-end side to improve user experience
-- Resolved multiple legacy bugs, preventing outages and disruptions to users.
-- Added unit tests to all new code, ensuring code quality and reducing the risk of bugs.
-- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
-- Maintained current common libraries, keeping them up-to-date and secure.
-- **Technologies used:** HTML, CSS (Sass), JavaScript/TypeScript (ReactJs), Java (Spring boot - applied Microservice architecture)
-
-<br>
-
-**Project <ins>EDITSHARE</ins>** - Senior Software Engineer <br>
-_(March 2020 - March 2021)_ <br>
-Web app for handling media (Airflow) + Admin site for other apps (Flow Control/Automation) + Gateway app for connection between client apps and servers
-- Collaborated with team members to analyze requirements and develop solutions to migrate from desktop apps.
-- Designed and implemented a new feature structure using the POD layout, which improved code quality and maintainability.
-- Introduced unit testing to the project, increasing code coverage to at least 70%.
-- Developed a common components system to improve code reuse and maintainability.
-- Enhanced user experience by implementing real-time data updates using RabbitMQ.
-- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
-- Resolved legacy bugs, improving code quality and reliability.
-- Collaborated with the onshore development team and product owner to analyze, design, and review new features before implementation.
-- Mentored and trained new team members.
-- **Technologies used:** HTML, CSS (Sass), JavaScript/CoffeeScript (EmberJs), NodeJs (ExpressJs)
-
-<br>
-
-**Project <ins>REVEGY</ins>** - Software Engineer<br>
-_(March 2018 - March 2020)_ <br>
-Web app for sales team - Migrated the old version from Flash to EmberJs
-- Collaborated with team members to analyze requirements and develop solutions to migrate from a legacy Flash app.
-- Migrated legacy features to Ember.js, increasing performance and maintainability.
-- Created data visualizations using JointJS, including tables, maps, and charts, to communicate complex data in a clear and concise way.
-- Designed database and codebase structures for new features, ensuring scalability and performance.
-- Refactored old codebase to improve readability, maintainability, and performance.
-- Introduced unit testing to the project, increasing code coverage to at least 70%.
-- Reviewed pull requests across teams and with the onshore team, providing feedback and suggestions for improvement.
-- Collaborated with the client's product owner to discuss and provide ideas for improving the user interface and user experience.
-- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs), Java (Hibernate)
+**(Senior) Software Engineer** <br>
+_(March 2018 - June 2021)_ <br>
+- Collaborated with cross-functional teams and clients to analyze requirements and develop innovative solutions for web applications, including e-learning platforms and media handling systems.
+- Designed and implemented new features for both front-end and back-end to enhance user experience and improve application functionality.
+- Introduced and enforced best practices, including implementing unit testing to achieve a minimum of 70% code coverage, which significantly improved code quality and reliability.
+- Mentored and trained new team members, providing guidance on development best practices and project-specific knowledge.
+- Contributed to continuous improvement by refactoring legacy code, resolving bugs, and maintaining common libraries.
+- Reviewed pull requests across teams, providing feedback to ensure code quality and consistency.
+- **Technologies used:** HTML, CSS (Sass), JavaScript (EmberJs, ReactJs), NodeJs (ExpressJs), Java (Spring Boot, Hibernate), RabbitMQ.
 
 ## 👩🏼‍🎓 Education
 
