@@ -8,20 +8,28 @@
 📞: (+84) 90 301 1667
 
 ## 🚩 Summary
-- 5+ years of experience in Software Development
-- 5+ years of experience in JavaScript, HTML, Css
-- 4+ years of experience in Css Preprocessors (Sass, Scss)
-- 4+ years of experience in Unit testing (Sinon, Jest)
-- 3+ years of experience in TypeScript
-- 3+ years of experience in NodeJs
+- 7+ years of experience in Software Development
+- 7+ years of experience in JavaScript, HTML, Css
+- 5+ years of experience in Unit testing (Vitest, Jest)
+- 5+ years of experience in TypeScript
+- 5+ years of experience in NodeJs
 
 <br>
 
 ## 📌 Working Experience
 
+### Grab
+**Team <ins>Business Processing Integration and Automation</ins>** - Senior Software Engineer  <br>
+_(April 2024 - Then)_ <br>
+- Led and guided team members in building internal tool, as a combination of Google Sheets and Google Forms alternative, with robust internal security requirements.
+- Refactored legacy codebases to improve readability and maintainability.
+- Optimized development processes and improved build times, ensuring a more efficient workflow.
+- Enhanced application performance, stability, and security through code improvements and process optimizations.
+- **Technologies used:** JavaScript (React, Vue.js), Node.js, AWS, Docker, Ant Design (Antd), Tailwind CSS, Grafana, Vitest
+
 ### Company Innosky
 **Team <ins>CORE</ins>** - Software Engineer  <br>
-_(March 2023 - Then)_ <br>
+_(March 2023 - April 2024)_ <br>
 - Full-stack software developer with experience in multiple projects and tech stacks
 - Consulting with clients to understand their needs and develop development approaches and solutions that met their requirements.
 - Mentoring and coaching small team members, helping them to develop their skills and knowledge.
