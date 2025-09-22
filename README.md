@@ -73,10 +73,4 @@ _(March 2018 - June 2021)_ <br>
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science**<br>
-[Vietnamese - German University](https://vgu.edu.vn/) - Binh Duong province, Vietnam <br> _(September 2014 - August 2018)_ <br>
-
-<br>
-
-## 💬 Languages
-
-**English**: Ielts 7.0 <br>
+[Vietnamese - German University](https://vgu.edu.vn/) - Binh Duong province, Vietnam <br> _(September 2014 - August 2018)_
