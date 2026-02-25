@@ -43,7 +43,7 @@ _(March 2023 - April 2024)_ <br>
 _(February 2022 - March 2023)_ <br>
 - Collaborated with product team to analyze and refine requirements, and contributed ideas to improve design and user experience
 - Designed and implemented new features using Angular, prioritizing reusability and commonality
-- Improved code coverage by writing and maintaining unit tests
+- Built reusable UI components and shared form modules to speed delivery across multiple client workflows
 - **Technologies used:** HTML, CSS (Scss), JavaScript/TypeScript (Angular, RxJS), Json Forms, Material UI, DataDog
 
 <br>
